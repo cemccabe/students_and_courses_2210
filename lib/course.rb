@@ -1,3 +1,5 @@
+require './lib/student'
+
 class Course
   attr_reader :name, :capacity, :students
 
